@@ -1,0 +1,67 @@
+.bg_img {
+    background-image: url("./img/busnes.jpg");
+    background-repeat: repeat;
+    object-fit: cover;
+}
+
+.box_shadow {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
+}
+
+.inner {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    height: 400px;
+    width: 40vw;
+    background: rgba(5, 54, 253, 255);
+    overflow: hidden;
+
+}
+
+.image1 {
+    object-fit: cover;
+    opacity: 0.4;
+    width: 80;
+    height: inherit;
+}
+
+.image2 {
+    object-fit: cover;
+    opacity: 0.4;
+    width: 1200px;
+    height: 800px;
+}
+
+.item {
+    position: relative;
+    left: -55px;
+    top: 50px;
+    height: 800px;
+    width: 200vw;
+    background: rgba(5, 54, 253, 255);
+    overflow: hidden;
+}
+
+.TextInContenet {
+    position: relative;
+    right: 800px;
+    top: 200px;
+}
+.z_img{
+    width: 44%;
+    position: absolute;
+    left: 602px;
+    top: 957px;
+}
+.z-btn{
+    position: absolute;
+    top: 939px;
+    right: 136px;
+}
+.z-index{
+    position: absolute;
+    top: 150px;
+    left: 225px;
+    width: 15%;
+}
